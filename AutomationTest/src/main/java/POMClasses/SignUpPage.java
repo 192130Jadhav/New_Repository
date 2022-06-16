@@ -63,6 +63,7 @@ public class SignUpPage {
 	{
 		getStartedBtn.click();
 	}
+	///End///
 	
 	
 	
